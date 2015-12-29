@@ -1,0 +1,28 @@
+name: Leo District MD112a
+favicon: null
+layout_spectrum: 0.8126624019350857
+typography_spectrum: 0.6895293698180467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7188314399681985
+  lightness: 0.30512006394565105
+  saturation: 0.562183897010982
+  rhythmicContrast: 0.792278341948986
+purpose: []
