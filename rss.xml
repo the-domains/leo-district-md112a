@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Leo District MD112a]]></title>
+        <description><![CDATA[Leo District MD112a]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 09:55:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leo District MD112a Home]]></title>
+            <description><![CDATA[<article><h1>Leo District MD112a Home</h1><p>De nieuwe districtswebsite staat eindelijk online! Een hub waar je alles dat ook maar enigszins met de leo's te maken heeft kan terugvinden óf net kwijtgeraken!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4f6d125b31fda8015750f7b6f68bd71341963b6.jpg"></article>]]></description>
+            <link>undefinedleo-district-md112a-home/index.html</link>
+            <guid isPermaLink="false">3bbb0915-e4e9-417c-80ce-7c9faa955aa1</guid>
+            <pubDate>Wed, 27 Jan 2016 09:55:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
