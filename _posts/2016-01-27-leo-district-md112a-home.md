@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:11:22.017Z'
-dateModified: '2016-01-27T10:11:18.127Z'
-title: Leo District MD112a Home
+datePublished: '2016-01-27T10:15:22.720Z'
+dateModified: '2016-01-27T10:15:15.576Z'
+title: Home
 author: []
+sourcePath: _posts/2016-01-27-leo-district-md112a-home.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-leo-district-md112a-home.md
-published: true
 url: leo-district-md112a-home/index.html
 _type: Article
 
